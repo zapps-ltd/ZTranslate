@@ -147,7 +147,7 @@ ZTranslate is free software, licensed under the GNU Affero General Public Licens
 
 ## Third-party software and credits
 
-ZTranslate is built on the work of others. The full list, with licenses and the notices that must accompany copies, is in THIRD_PARTY_NOTICES.md. In short:
+ZTranslate is built using the software below. The full list, with licenses and the notices that must accompany copies, is in THIRD_PARTY_NOTICES.md.
 
 - Python (Python Software Foundation License) and its standard library.
 - wxPython and wxWidgets (wxWindows Library Licence).
