@@ -2,7 +2,7 @@
 
 ZTranslate is a portable Windows tool that translates the text you select or focus in any program, speaks the translation aloud and can copy it to the clipboard. It is driven by global hotkeys, has no main window, and speaks through the Windows speech engine (SAPI) directly, so it works the same with NVDA, JAWS, Narrator or no screen reader at all. It is written in Python with wxPython.
 
-Version 0.1.0. By the zapps.ltd developers, Harith and Mesar.
+Version 0.1.1. By the zapps.ltd developers, Harith and Mesar.
 
 ## Why it exists
 
