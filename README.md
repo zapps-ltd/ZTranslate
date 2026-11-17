@@ -106,7 +106,7 @@ Settings, tray and first run
 ## Running ZTranslate
 
 Running a build
-- Download the release, unpack it and start ZTranslate.exe. It is a single portable file; no installer is needed. You can keep it anywhere, including a USB drive. Settings stay in your application data folder, so moving the file does not lose them.
+- Download the release, unpack it and start ZTranslate.exe in the ZTranslate folder. The folder is portable; no installer is needed. You can keep it anywhere, including a USB drive. Settings stay in your application data folder, so moving the folder does not lose them.
 
 Running from source
 - Install Python, then the packages: pip install wxPython pywin32 comtypes
@@ -153,7 +153,7 @@ ZTranslate is built using the software below. The full list, with licenses and t
 - wxPython and wxWidgets (wxWindows Library Licence).
 - pywin32 by Mark Hammond and others (PSF license in its metadata, BSD-style license files).
 - comtypes by Thomas Heller and the comtypes developers (MIT License).
-- PyInstaller (GPL-2.0-or-later with a special exception), used to build the portable exe.
+- PyInstaller (GPL-2.0-or-later with a special exception), used to build the portable program.
 - Translation services you may choose to use, under their own terms and not bundled: LibreTranslate, Google Translate, DeepL, Microsoft Translator, OpenAI, Google Gemini and OpenRouter.
 
 Copyright (C) 2026 ZAPPS SOFTWARE LTD. Made by the zapps.ltd developers, Harith and Mesar.
